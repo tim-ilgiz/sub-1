@@ -4,7 +4,7 @@
     {
         public string ReturnAnyThing()
         {
-            return "AnyThin9888889898989";
+            return "AnyThing_release/mobile/1.0.0/888888";
         }
     }
 }
