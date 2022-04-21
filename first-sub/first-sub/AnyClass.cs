@@ -4,7 +4,7 @@
     {
         public string ReturnAnyThing()
         {
-            return "AnyThing099999999";
+            return "AnyThin777777777";
         }
     }
 }
